@@ -40,7 +40,7 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 Today's full Central Bank of Kuwait table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-08** by Central Bank of Kuwait — 133 rates, first 60 shown. Updated 2026-10-08.
+Published **2026-10-08** by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-09.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
@@ -99,11 +99,11 @@ Published **2026-10-08** by Central Bank of Kuwait — 133 rates, first 60 shown
 | HUF | KWD | reference | 0.000943 |
 | IDR | KWD | reference | 0.000017 |
 | INR | KWD | reference | 0.003186 |
+| IQD | KWD | reference | 0.000203 |
 | IRR | KWD | reference | 0.000007 |
 | ISK | KWD | reference | 0.00252 |
 | JMD | KWD | reference | 0.00194 |
 | JOD | KWD | reference | 0.434626 |
-| JPY | KWD | reference | 0.0019479 |
 
 [Full table on the Central Bank of Kuwait rates page](https://allratestoday.com/central-bank-rates-api/cbk/) · Source: [Official rates published by CBK, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/cbk/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
