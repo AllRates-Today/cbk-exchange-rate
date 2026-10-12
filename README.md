@@ -40,55 +40,55 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 Today's full Central Bank of Kuwait table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-11** by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-11.
+Published **2026-10-12** by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-12.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | KWD | reference | 0.083896 |
-| AFN | KWD | reference | 0.004756 |
+| AFN | KWD | reference | 0.004751 |
 | ALL | KWD | reference | 0.003767 |
-| AMD | KWD | reference | 0.000849 |
-| AOA | KWD | reference | 0.000336 |
+| AMD | KWD | reference | 0.000851 |
+| AOA | KWD | reference | 0.000335 |
 | ARS | KWD | reference | 0.000203 |
-| AUD | KWD | reference | 0.21524 |
+| AUD | KWD | reference | 0.21518 |
 | AZN | KWD | reference | 0.181265 |
-| BAM | KWD | reference | 0.176312 |
-| BBD | KWD | reference | 0.153798 |
+| BAM | KWD | reference | 0.176454 |
+| BBD | KWD | reference | 0.152996 |
 | BDT | KWD | reference | 0.002499 |
 | BGN | KWD | reference | 0.183033 |
 | BHD | KWD | reference | 0.819371 |
 | BIF | KWD | reference | 0.000103 |
 | BMD | KWD | reference | 0.30815 |
-| BND | KWD | reference | 0.240601 |
+| BND | KWD | reference | 0.240855 |
 | BOB | KWD | reference | 0.026015 |
 | BRL | KWD | reference | 0.061725 |
 | BSD | KWD | reference | 0.30815 |
 | BTN | KWD | reference | 0.003184 |
-| BWP | KWD | reference | 0.022557 |
-| BZD | KWD | reference | 0.153691 |
-| CAD | KWD | reference | 0.216139 |
+| BWP | KWD | reference | 0.021956 |
+| BZD | KWD | reference | 0.153217 |
+| CAD | KWD | reference | 0.216155 |
 | CDF | KWD | reference | 0.000133 |
-| CHF | KWD | reference | 0.371153 |
+| CHF | KWD | reference | 0.37122 |
 | CLP | KWD | reference | 0.000315 |
 | CNY | KWD | reference | 0.046047 |
-| COP | KWD | reference | 0.000097 |
+| COP | KWD | reference | 0.000096 |
 | CRC | KWD | reference | 0.000677 |
 | CUP | KWD | reference | 0.01284 |
-| CVE | KWD | reference | 0.003122 |
-| CZK | KWD | reference | 0.014159 |
+| CVE | KWD | reference | 0.003125 |
+| CZK | KWD | reference | 0.014168 |
 | DJF | KWD | reference | 0.00173 |
-| DKK | KWD | reference | 0.046179 |
-| DOP | KWD | reference | 0.005042 |
+| DKK | KWD | reference | 0.046219 |
+| DOP | KWD | reference | 0.005058 |
 | DZD | KWD | reference | 0.002289 |
 | ECS | KWD | reference | 0.000012 |
-| EGP | KWD | reference | 0.005884 |
+| EGP | KWD | reference | 0.005862 |
 | ERN | KWD | reference | 0.020441 |
-| ETB | KWD | reference | 0.001911 |
-| EUR | KWD | reference | 0.34519 |
+| ETB | KWD | reference | 0.001908 |
+| EUR | KWD | reference | 0.345467 |
 | FJD | KWD | reference | 0.137111 |
-| GBP | KWD | reference | 0.40776 |
+| GBP | KWD | reference | 0.408222 |
 | GEL | KWD | reference | 0.118885 |
-| GHS | KWD | reference | 0.026181 |
+| GHS | KWD | reference | 0.026114 |
 | GMD | KWD | reference | 0.004133 |
 | GNF | KWD | reference | 0.000035 |
 | GTQ | KWD | reference | 0.040307 |
@@ -96,13 +96,13 @@ Published **2026-10-11** by Central Bank of Kuwait — 134 rates, first 60 shown
 | HKD | KWD | reference | 0.039266 |
 | HNL | KWD | reference | 0.01148 |
 | HTG | KWD | reference | 0.002353 |
-| HUF | KWD | reference | 0.000946 |
+| HUF | KWD | reference | 0.000947 |
 | IDR | KWD | reference | 0.000017 |
-| INR | KWD | reference | 0.003184 |
+| INR | KWD | reference | 0.003217 |
 | IQD | KWD | reference | 0.000203 |
 | IRR | KWD | reference | 0.000007 |
-| ISK | KWD | reference | 0.002523 |
-| JMD | KWD | reference | 0.001939 |
+| ISK | KWD | reference | 0.002525 |
+| JMD | KWD | reference | 0.001934 |
 | JOD | KWD | reference | 0.434626 |
 
 [Full table on the Central Bank of Kuwait rates page](https://allratestoday.com/central-bank-rates-api/cbk/) · Source: [Official rates published by CBK, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/cbk/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
