@@ -33,16 +33,17 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/cbk').the
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables, history, and CSV/XML/Excel output.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
 
 ## 📈 Latest published table
 
 [![Latest Central Bank of Kuwait table](https://allratestoday.com/api/open/central-bank/cbk/table.svg)](https://allratestoday.com/central-bank-rates-api/cbk/)
 
-The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
+The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-18** by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-18.
+<details>
+<summary>Table as text: published 2026-10-19 by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-19.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
@@ -52,60 +53,62 @@ Published **2026-10-18** by Central Bank of Kuwait — 134 rates, first 60 shown
 | AMD | KWD | reference | 0.00085 |
 | AOA | KWD | reference | 0.000335 |
 | ARS | KWD | reference | 0.000203 |
-| AUD | KWD | reference | 0.21397 |
+| AUD | KWD | reference | 0.2148 |
 | AZN | KWD | reference | 0.181177 |
-| BAM | KWD | reference | 0.176813 |
+| BAM | KWD | reference | 0.176666 |
 | BBD | KWD | reference | 0.152922 |
-| BDT | KWD | reference | 0.002493 |
+| BDT | KWD | reference | 0.002492 |
 | BGN | KWD | reference | 0.183033 |
 | BHD | KWD | reference | 0.818972 |
 | BIF | KWD | reference | 0.000103 |
 | BMD | KWD | reference | 0.308 |
-| BND | KWD | reference | 0.240691 |
+| BND | KWD | reference | 0.240719 |
 | BOB | KWD | reference | 0.026359 |
 | BRL | KWD | reference | 0.060811 |
 | BSD | KWD | reference | 0.308 |
 | BTN | KWD | reference | 0.003243 |
-| BWP | KWD | reference | 0.022592 |
+| BWP | KWD | reference | 0.021791 |
 | BZD | KWD | reference | 0.153142 |
-| CAD | KWD | reference | 0.217829 |
+| CAD | KWD | reference | 0.218107 |
 | CDF | KWD | reference | 0.000133 |
-| CHF | KWD | reference | 0.373809 |
+| CHF | KWD | reference | 0.373628 |
 | CLP | KWD | reference | 0.000313 |
-| CNY | KWD | reference | 0.046065 |
+| CNY | KWD | reference | 0.046094 |
 | COP | KWD | reference | 0.000097 |
 | CRC | KWD | reference | 0.000678 |
 | CUP | KWD | reference | 0.012833 |
-| CVE | KWD | reference | 0.003131 |
-| CZK | KWD | reference | 0.014228 |
+| CVE | KWD | reference | 0.003128 |
+| CZK | KWD | reference | 0.014214 |
 | DJF | KWD | reference | 0.00173 |
-| DKK | KWD | reference | 0.046308 |
-| DOP | KWD | reference | 0.005012 |
+| DKK | KWD | reference | 0.046272 |
+| DOP | KWD | reference | 0.005008 |
 | DZD | KWD | reference | 0.002289 |
 | ECS | KWD | reference | 0.000012 |
-| EGP | KWD | reference | 0.00576 |
+| EGP | KWD | reference | 0.005754 |
 | ERN | KWD | reference | 0.020431 |
 | ETB | KWD | reference | 0.001909 |
-| EUR | KWD | reference | 0.346177 |
-| FJD | KWD | reference | 0.135828 |
-| GBP | KWD | reference | 0.410533 |
+| EUR | KWD | reference | 0.345884 |
+| FJD | KWD | reference | 0.136321 |
+| GBP | KWD | reference | 0.410472 |
 | GEL | KWD | reference | 0.118598 |
-| GHS | KWD | reference | 0.026438 |
+| GHS | KWD | reference | 0.026392 |
 | GMD | KWD | reference | 0.004129 |
 | GNF | KWD | reference | 0.000035 |
 | GTQ | KWD | reference | 0.040288 |
 | GYD | KWD | reference | 0.001472 |
-| HKD | KWD | reference | 0.039246 |
+| HKD | KWD | reference | 0.039247 |
 | HNL | KWD | reference | 0.011474 |
 | HTG | KWD | reference | 0.002354 |
-| HUF | KWD | reference | 0.000953 |
+| HUF | KWD | reference | 0.000954 |
 | IDR | KWD | reference | 0.000017 |
-| INR | KWD | reference | 0.003243 |
+| INR | KWD | reference | 0.003249 |
 | IQD | KWD | reference | 0.000203 |
 | IRR | KWD | reference | 0.000007 |
-| ISK | KWD | reference | 0.002542 |
+| ISK | KWD | reference | 0.002539 |
 | JMD | KWD | reference | 0.001938 |
 | JOD | KWD | reference | 0.434415 |
+
+</details>
 
 [Full table on the Central Bank of Kuwait rates page](https://allratestoday.com/central-bank-rates-api/cbk/) · Source: [Official rates published by CBK, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/cbk/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
@@ -378,7 +381,8 @@ Need the whole archive rather than an API call? The same published tables are mi
 - [All central bank sources](https://allratestoday.com/central-bank-rates-api/)
 - [Package docs on the site](https://allratestoday.com/docs/sdk/cbk-exchange-rate/) · [ERP integration guides](https://allratestoday.com/docs/integrations/)
 - [API documentation](https://allratestoday.com/docs/#central-bank) · [Interactive reference](https://allratestoday.com/api-reference/) · [Methodology](https://allratestoday.com/official-rates-methodology/)
-- [Register (free)](https://allratestoday.com/register) · [Pricing](https://allratestoday.com/pricing/)
+- [Register (Free)](https://allratestoday.com/register) · [Dashboard](https://allratestoday.com/profile) · [Pricing](https://allratestoday.com/pricing/)
+- [Status](https://allratestoday.com/status)
 - [GitHub](https://github.com/AllRates-Today/cbk-exchange-rate)
 
 ## 📜 License
