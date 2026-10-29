@@ -47,70 +47,70 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-28 by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-28.</summary>
+<summary>Table as text: published 2026-10-29 by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-10-29.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | KWD | reference | 0.08395 |
-| AFN | KWD | reference | 0.004741 |
-| ALL | KWD | reference | 0.003773 |
+| AED | KWD | reference | 0.083923 |
+| AFN | KWD | reference | 0.00474 |
+| ALL | KWD | reference | 0.003782 |
 | AMD | KWD | reference | 0.000859 |
 | AOA | KWD | reference | 0.000335 |
-| ARS | KWD | reference | 0.000201 |
-| AUD | KWD | reference | 0.21677 |
-| AZN | KWD | reference | 0.181382 |
-| BAM | KWD | reference | 0.175154 |
-| BBD | KWD | reference | 0.153096 |
-| BDT | KWD | reference | 0.002486 |
+| ARS | KWD | reference | 0.0002 |
+| AUD | KWD | reference | 0.21735 |
+| AZN | KWD | reference | 0.181323 |
+| BAM | KWD | reference | 0.175466 |
+| BBD | KWD | reference | 0.153046 |
+| BDT | KWD | reference | 0.002482 |
 | BGN | KWD | reference | 0.183033 |
-| BHD | KWD | reference | 0.819903 |
+| BHD | KWD | reference | 0.819637 |
 | BIF | KWD | reference | 0.000103 |
-| BMD | KWD | reference | 0.30835 |
-| BND | KWD | reference | 0.24056 |
-| BOB | KWD | reference | 0.0256 |
-| BRL | KWD | reference | 0.057616 |
-| BSD | KWD | reference | 0.30835 |
-| BTN | KWD | reference | 0.003242 |
-| BWP | KWD | reference | 0.021584 |
-| BZD | KWD | reference | 0.153316 |
-| CAD | KWD | reference | 0.219193 |
+| BMD | KWD | reference | 0.30825 |
+| BND | KWD | reference | 0.240755 |
+| BOB | KWD | reference | 0.025698 |
+| BRL | KWD | reference | 0.057654 |
+| BSD | KWD | reference | 0.30825 |
+| BTN | KWD | reference | 0.003237 |
+| BWP | KWD | reference | 0.021747 |
+| BZD | KWD | reference | 0.153267 |
+| CAD | KWD | reference | 0.220391 |
 | CDF | KWD | reference | 0.000133 |
-| CHF | KWD | reference | 0.371573 |
-| CLP | KWD | reference | 0.000313 |
-| CNY | KWD | reference | 0.046246 |
-| COP | KWD | reference | 0.000098 |
+| CHF | KWD | reference | 0.37208 |
+| CLP | KWD | reference | 0.000312 |
+| CNY | KWD | reference | 0.046273 |
+| COP | KWD | reference | 0.000097 |
 | CRC | KWD | reference | 0.000678 |
-| CUP | KWD | reference | 0.012848 |
-| CVE | KWD | reference | 0.003102 |
-| CZK | KWD | reference | 0.014097 |
-| DJF | KWD | reference | 0.001732 |
-| DKK | KWD | reference | 0.045876 |
-| DOP | KWD | reference | 0.005135 |
-| DZD | KWD | reference | 0.002278 |
+| CUP | KWD | reference | 0.012844 |
+| CVE | KWD | reference | 0.003107 |
+| CZK | KWD | reference | 0.0141 |
+| DJF | KWD | reference | 0.001731 |
+| DKK | KWD | reference | 0.045966 |
+| DOP | KWD | reference | 0.005063 |
+| DZD | KWD | reference | 0.002279 |
 | ECS | KWD | reference | 0.000012 |
-| EGP | KWD | reference | 0.005504 |
-| ERN | KWD | reference | 0.020454 |
+| EGP | KWD | reference | 0.005493 |
+| ERN | KWD | reference | 0.020448 |
 | ETB | KWD | reference | 0.001909 |
-| EUR | KWD | reference | 0.342932 |
-| FJD | KWD | reference | 0.137385 |
-| GBP | KWD | reference | 0.409936 |
-| GEL | KWD | reference | 0.118825 |
-| GHS | KWD | reference | 0.026491 |
-| GMD | KWD | reference | 0.004106 |
+| EUR | KWD | reference | 0.343529 |
+| FJD | KWD | reference | 0.137557 |
+| GBP | KWD | reference | 0.410604 |
+| GEL | KWD | reference | 0.118832 |
+| GHS | KWD | reference | 0.026482 |
+| GMD | KWD | reference | 0.004129 |
 | GNF | KWD | reference | 0.000035 |
-| GTQ | KWD | reference | 0.040347 |
-| GYD | KWD | reference | 0.001472 |
-| HKD | KWD | reference | 0.039306 |
-| HNL | KWD | reference | 0.011486 |
-| HTG | KWD | reference | 0.002352 |
-| HUF | KWD | reference | 0.000934 |
+| GTQ | KWD | reference | 0.040321 |
+| GYD | KWD | reference | 0.001471 |
+| HKD | KWD | reference | 0.039291 |
+| HNL | KWD | reference | 0.011482 |
+| HTG | KWD | reference | 0.002351 |
+| HUF | KWD | reference | 0.000936 |
 | IDR | KWD | reference | 0.000017 |
-| INR | KWD | reference | 0.003241 |
+| INR | KWD | reference | 0.003237 |
 | IQD | KWD | reference | 0.000203 |
 | IRR | KWD | reference | 0.000007 |
-| ISK | KWD | reference | 0.002514 |
-| JMD | KWD | reference | 0.001944 |
-| JOD | KWD | reference | 0.434908 |
+| ISK | KWD | reference | 0.00253 |
+| JMD | KWD | reference | 0.001942 |
+| JOD | KWD | reference | 0.434767 |
 
 </details>
 
@@ -275,6 +275,7 @@ The Central Bank of Kuwait manages the Kuwaiti dinar — the world’s highest-v
 
 - Publisher's own page: [Exchange rates](https://www.cbk.gov.kw/en/monetary-policy/market-operations/exchange-rates) · [www.cbk.gov.kw](https://www.cbk.gov.kw)
 - Publication: every business day; the exact schedule, freshness status and any current delay are on the [Central Bank of Kuwait rates page](https://allratestoday.com/central-bank-rates-api/cbk/)
+- In the API: usually by **10:15 UTC** (measured over the last 11 publications). Schedule a sync at or after that time and retry hourly until `rate_date` moves; every response carries the same figure as `available_by_utc` — see [when to poll](https://allratestoday.com/docs/#when-to-poll)
 - Values are stored unmodified, with the publisher's own `rate_date` on every row — see the [methodology](https://allratestoday.com/official-rates-methodology/)
 
 ## 🧭 Reading the numbers
