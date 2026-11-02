@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-01 by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-11-01.</summary>
+<summary>Table as text: published 2026-11-02 by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-11-02.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
@@ -42,58 +42,58 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 | AMD | KWD | reference | 0.000855 |
 | AOA | KWD | reference | 0.000335 |
 | ARS | KWD | reference | 0.000201 |
-| AUD | KWD | reference | 0.21672 |
+| AUD | KWD | reference | 0.21626 |
 | AZN | KWD | reference | 0.181265 |
-| BAM | KWD | reference | 0.175654 |
+| BAM | KWD | reference | 0.17588 |
 | BBD | KWD | reference | 0.152996 |
-| BDT | KWD | reference | 0.002482 |
+| BDT | KWD | reference | 0.002487 |
 | BGN | KWD | reference | 0.183033 |
 | BHD | KWD | reference | 0.819371 |
 | BIF | KWD | reference | 0.000103 |
 | BMD | KWD | reference | 0.30815 |
-| BND | KWD | reference | 0.2411 |
+| BND | KWD | reference | 0.240864 |
 | BOB | KWD | reference | 0.025373 |
 | BRL | KWD | reference | 0.056653 |
 | BSD | KWD | reference | 0.30815 |
 | BTN | KWD | reference | 0.003247 |
-| BWP | KWD | reference | 0.022356 |
+| BWP | KWD | reference | 0.02157 |
 | BZD | KWD | reference | 0.153217 |
-| CAD | KWD | reference | 0.220525 |
+| CAD | KWD | reference | 0.220351 |
 | CDF | KWD | reference | 0.000133 |
-| CHF | KWD | reference | 0.373493 |
+| CHF | KWD | reference | 0.3739 |
 | CLP | KWD | reference | 0.00031 |
-| CNY | KWD | reference | 0.04631 |
+| CNY | KWD | reference | 0.046349 |
 | COP | KWD | reference | 0.000096 |
 | CRC | KWD | reference | 0.000678 |
 | CUP | KWD | reference | 0.01284 |
-| CVE | KWD | reference | 0.00311 |
-| CZK | KWD | reference | 0.014117 |
+| CVE | KWD | reference | 0.003115 |
+| CZK | KWD | reference | 0.014134 |
 | DJF | KWD | reference | 0.00173 |
-| DKK | KWD | reference | 0.046011 |
+| DKK | KWD | reference | 0.046073 |
 | DOP | KWD | reference | 0.005084 |
 | DZD | KWD | reference | 0.002269 |
 | ECS | KWD | reference | 0.000012 |
-| EGP | KWD | reference | 0.005499 |
+| EGP | KWD | reference | 0.005533 |
 | ERN | KWD | reference | 0.020441 |
 | ETB | KWD | reference | 0.001909 |
-| EUR | KWD | reference | 0.343895 |
-| FJD | KWD | reference | 0.137327 |
-| GBP | KWD | reference | 0.41269 |
+| EUR | KWD | reference | 0.344342 |
+| FJD | KWD | reference | 0.136603 |
+| GBP | KWD | reference | 0.412597 |
 | GEL | KWD | reference | 0.118748 |
-| GHS | KWD | reference | 0.026473 |
+| GHS | KWD | reference | 0.026405 |
 | GMD | KWD | reference | 0.004128 |
 | GNF | KWD | reference | 0.000035 |
 | GTQ | KWD | reference | 0.040307 |
 | GYD | KWD | reference | 0.00147 |
-| HKD | KWD | reference | 0.039281 |
+| HKD | KWD | reference | 0.039273 |
 | HNL | KWD | reference | 0.011465 |
 | HTG | KWD | reference | 0.002352 |
-| HUF | KWD | reference | 0.00094 |
+| HUF | KWD | reference | 0.000941 |
 | IDR | KWD | reference | 0.000017 |
-| INR | KWD | reference | 0.003247 |
+| INR | KWD | reference | 0.003251 |
 | IQD | KWD | reference | 0.000203 |
 | IRR | KWD | reference | 0.000007 |
-| ISK | KWD | reference | 0.002529 |
+| ISK | KWD | reference | 0.002532 |
 | JMD | KWD | reference | 0.001939 |
 | JOD | KWD | reference | 0.434626 |
 
