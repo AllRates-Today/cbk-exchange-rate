@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-19 by Central Bank of Kuwait — 133 rates, first 60 shown. Updated 2026-11-19.</summary>
+<summary>Table as text: published 2026-11-19 by Central Bank of Kuwait — 134 rates, first 60 shown. Updated 2026-11-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
